@@ -59,7 +59,7 @@ export const moviesData = [
     image:
       'https://i.pinimg.com/564x/32/49/1c/32491ccd2f4ce577dea8871988c5828c.jpg',
     rating: 5,
-    name: 'KILL BILL',
+    name: 'KILL BILL: VOL. 1',
     date: '2003',
     type: 'Action',
     description:
